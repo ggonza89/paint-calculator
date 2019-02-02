@@ -11,3 +11,6 @@
 /tmp/*
 venv/.*
 venv
+bin
+env
+lib
