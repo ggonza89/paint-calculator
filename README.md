@@ -48,6 +48,6 @@ To make it easier on everybody, it's best if we use a PR to diff what work was c
 
 Instructions on how to run tests
 1. Install requirements
-*`pip3 install -r requirements.txt`
+* `pip3 install -r requirements.txt`
 2. Run tests using following command
-*`python3 -m unittest`
+* `python3 -m unittest`
